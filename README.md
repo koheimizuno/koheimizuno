@@ -21,94 +21,94 @@
 <h3 align="left">Languages and Tools:</h3>
 <table>
     <tr>
-        <td align='center' width='calc(864/10)px'>
+        <td align='center' width='84.6px'>
             <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
             <br>TypeScript
             </a>
         </td>
-        <td align='center' width='calc(864/10)px'>
+        <td align='center' width='84.6px'>
             <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
             <br> React
             </a> 
         </td>
-        <td align='center' width='calc(864/10)px'>
+        <td align='center' width='84.6px'>
             <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>
             <br> Next.js
             </a>
         </td>
-        <td align='center' width='calc(864/10)px'>
+        <td align='center' width='84.6px'>
             <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
             <br> Vue.js
             </a> 
         </td>
-        <td align='center' width='calc(864/10)px'>
+        <td align='center' width='84.6px'>
             <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40"/>
             <br> Nuxt.js
             </a>
         </td>
-        <td align='center' width='calc(864/10)px'>
+        <td align='center' width='84.6px'>
             <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
             <br> Node.js
             </a> 
         </td>
-        <td align='center' width='calc(864/10)px'>
+        <td align='center' width='84.6px'>
             <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
             <br> Express.js
             </a> 
         </td>
-        <td align='center' width='calc(864/10)px'>
+        <td align='center' width='84.6px'>
             <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
             <br> Python
             </a>
         </td>
-        <td align='center' width='calc(864/10)px'>
+        <td align='center' width='84.6px'>
             <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
             <br> Django
             </a> 
         </td>
-        <td align='center' width='calc(864/10)px'>
+        <td align='center' width='84.6px'>
             <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
             <br> PHP
             </a>
         </td>
     </tr>
     <tr>
-        <td align='center' width='calc(864/10)px'>
+        <td align='center' width='84.6px'>
             <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/>
             <br> Laravel
             </a>
         </td>
-        <td align='center' width='calc(864/10)px'>
+        <td align='center' width='84.6px'>
             <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
             <br> Bootstrap
             </a> 
         </td>
-        <td align='center' width='calc(864/10)px'>
+        <td align='center' width='84.6px'>
             <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
             <br> TailwindCSS
             </a>
         </td>
-        <td align='center' width='calc(864/10)px'>
+        <td align='center' width='84.6px'>
             <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
             <br> SASS
             </a>
         </td>
-        <td align='center' width='calc(864/10)px'>
+        <td align='center' width='84.6px'>
             <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
             <br> Git
             </a>
         </td>
-        <td align='center' width='calc(864/10)px'>
+        <td align='center' width='84.6px'>
             <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
             <br> MySQL
             </a>
         </td>
-        <td align='center' width='calc(864/10)px'>
+        <td align='center' width='84.6px'>
             <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
             <br> MongoDB
             </a>
         </td>
-        <td align='center' width='calc(864/10)px'>
+        <td align='center' width='84.6px'>
             <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
             <br> PostgreSQL
             </a>
