@@ -16,94 +16,99 @@
 <table>
     <tr>
         <td align='center' width='84.6px'>
-            <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+            <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=javascript" alt="typescript" width="40" height="40"/>
             <br>TypeScript
             </a>
         </td>
         <td align='center' width='84.6px'>
-            <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+            <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=typescript" alt="typescript" width="40" height="40"/>
+            <br>TypeScript
+            </a>
+        </td>
+        <td align='center' width='84.6px'>
+            <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/>
             <br> React
             </a> 
         </td>
         <td align='center' width='84.6px'>
-            <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>
+            <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=next" alt="nextjs" width="40" height="40"/>
             <br> Next.js
             </a>
         </td>
         <td align='center' width='84.6px'>
-            <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
+            <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=vue" alt="vuejs" width="40" height="40"/>
             <br> Vue.js
             </a> 
         </td>
         <td align='center' width='84.6px'>
-            <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40"/>
+            <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nuxt" width="40" height="40"/>
             <br> Nuxt.js
             </a>
         </td>
         <td align='center' width='84.6px'>
-            <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+            <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/>
             <br> Node.js
             </a> 
         </td>
         <td align='center' width='84.6px'>
-            <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
+            <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/>
             <br> Express.js
             </a> 
         </td>
         <td align='center' width='84.6px'>
-            <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+            <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=python" alt="python" width="40" height="40"/>
             <br> Python
             </a>
         </td>
         <td align='center' width='84.6px'>
-            <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
+            <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=django" alt="django" width="40" height="40"/>
             <br> Django
             </a> 
         </td>
         <td align='center' width='84.6px'>
-            <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
+            <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=php" alt="php" width="40" height="40"/>
             <br> PHP
             </a>
         </td>
     </tr>
     <tr>
         <td align='center' width='84.6px'>
-            <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/>
+            <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=laravel" alt="laravel" width="40" height="40"/>
             <br> Laravel
             </a>
         </td>
         <td align='center' width='84.6px'>
-            <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
+            <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="40" height="40"/>
             <br> Bootstrap
             </a> 
         </td>
         <td align='center' width='84.6px'>
-            <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-            <br> TailwindCSS
+            <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/>
+            <br> Tailwind
             </a>
         </td>
         <td align='center' width='84.6px'>
-            <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
+            <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=sass" alt="sass" width="40" height="40"/>
             <br> SASS
             </a>
         </td>
         <td align='center' width='84.6px'>
-            <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+            <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/>
             <br> Git
             </a>
         </td>
         <td align='center' width='84.6px'>
-            <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+            <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/>
             <br> MySQL
             </a>
         </td>
         <td align='center' width='84.6px'>
-            <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+            <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/>
             <br> MongoDB
             </a>
         </td>
         <td align='center' width='84.6px'>
-            <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
+            <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgresql" alt="postgresql" width="40" height="40"/>
             <br> PostgreSQL
             </a>
         </td>
@@ -127,7 +132,7 @@
 
 ## 🤝 Let's Connect!
 
-### I'm always open to new opportunities, collaborations, and interesting discussions. Feel free to connect with me on [LinkedIn](https://www.linkedin.com/) to discuss potential opportunities or check out my [Portfolio](https://janedoe.com) to see more of my projects. I'm excited to collaborate and create impactful solutions! <br>🚀 Let's build the future together!
+### I'm always open to new opportunities, collaborations, and interesting discussions. Feel free to connect with me on [LinkedIn]() to discuss potential opportunities or check out my [Portfolio]() to see more of my projects. I'm excited to collaborate and create impactful solutions! <br>🚀 Let's build the future together!
 
 ## 🎉 Support
 
