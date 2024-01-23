@@ -1,22 +1,16 @@
 <h1 align="center">Hi 👋, I'm WeiJie Zhang</h1>
-<h3 align="center">A passionate full-stack developer from Hong Kong.</h3>
+<h2 align="center">A passionate full-stack developer from Hong Kong.</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=weijiezhang-star&label=Profile%20views&color=0e75b6&style=flat" alt="weijiezhang-star" /> </p>
 
-[![LinkedIn Badge](https://img.shields.io/badge/-YourName-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yourname/)](https://www.linkedin.com/in/yourname/)
-[![Portfolio Badge](https://img.shields.io/badge/-Portfolio-0177B5?style=flat-square&logo=Google-Chrome&logoColor=white&link=https://yourportfolio.com)](https://yourportfolio.com)
+<!-- [![LinkedIn Badge](https://img.shields.io/badge/-YourName-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yourname/)](https://www.linkedin.com/in/yourname/)
+[![Portfolio Badge](https://img.shields.io/badge/-Portfolio-0177B5?style=flat-square&logo=Google-Chrome&logoColor=white&link=https://yourportfolio.com)](https://yourportfolio.com) -->
 
 ## About me
 
-💻 I'm a passionate individual who loves diving into the world of coding. As a full-stack developer, I enjoy building web applications from both the frontend and backend perspectives.
+### 💻 I'm a passionate individual who loves diving into the world of coding. As a full-stack developer, I enjoy building web applications from both the frontend and backend perspectives.
 
-🌟 With a strong grasp of HTML, CSS, and JavaScript, I bring life to user interfaces and ensure they are visually engaging and user-friendly.
-
-🛠️ On the backend, I'm skilled in technologies like Node.js and Python. I have experience developing server-side logic and creating efficient APIs to handle data storage and retrieval from databases such as MySQL and MongoDB.
-
-🔧 When it comes to tools, I'm well-versed in Git for version control, and I have experience with deployment on platforms like Heroku and AWS. Testing and debugging code are also part of my skill set.
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=weijiezhang-star" alt="weijiezhang-star" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=weijiezhang-star" alt="weijiezhang-star" /></a> </p> -->
 
 ## Languages and Tools
 
@@ -121,7 +115,16 @@
 
 ## Statistics
 
-<a href="https://github.com/weijiezhang-star/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=weijiezhang-star&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/weijiezhang-star/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=weijiezhang-star&layout=compact&theme=buefy&hide_border=true" /></a>
+<table>
+    <tr>
+        <td>
+            <a href="https://github.com/weijiezhang-star/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=weijiezhang-star&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="weijiezhang's github stats" /></a>
+        </td>
+        <td>
+            <a href="https://github.com/weijiezhang-star/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=weijiezhang-star&layout=compact&theme=buefy&hide_border=true" /></a>
+        </td>
+    </tr>
+</table>
 
 ## 📫 Let's Connect!
 
