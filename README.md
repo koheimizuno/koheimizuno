@@ -129,7 +129,7 @@
 
 ### I'm always open to new opportunities, collaborations, and interesting discussions. Feel free to connect with me on [LinkedIn](https://www.linkedin.com/) to discuss potential opportunities or check out my [Portfolio](https://janedoe.com) to see more of my projects. I'm excited to collaborate and create impactful solutions!
 
-🚀 Let's build the future together!
+## 🚀 Let's build the future together!
 
 ## 🎉 Support
 
