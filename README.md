@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm WeiJie Zhang</h1>
-<h3 align="center" style='border: 0'>A passionate full-stack developer from Hong Kong.</h3>
+<h2 align="center" style='border: 0'>A passionate full-stack developer from Hong Kong.</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=weijiezhang-star&label=Profile%20views&color=0e75b6&style=flat" alt="weijiezhang-star" /> </p>
 
