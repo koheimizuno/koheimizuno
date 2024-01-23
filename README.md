@@ -115,7 +115,7 @@
 
 ## Statistics
 
-<table>
+<table align='center'>
     <tr>
         <td>
             <a href="https://github.com/weijiezhang-star/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=weijiezhang-star&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="weijiezhang's github stats" /></a>
