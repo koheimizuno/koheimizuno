@@ -1,18 +1,17 @@
 <h1 align="center">Hi 👋, I'm WeiJie Zhang</h1>
-<h2 align="center" style='border: 0'>A passionate full-stack developer from Hong Kong.</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=weijiezhang-star&label=Profile%20views&color=0e75b6&style=flat" alt="weijiezhang-star" /> </p>
 
 <!-- [![LinkedIn Badge](https://img.shields.io/badge/-YourName-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yourname/)](https://www.linkedin.com/in/yourname/)
 [![Portfolio Badge](https://img.shields.io/badge/-Portfolio-0177B5?style=flat-square&logo=Google-Chrome&logoColor=white&link=https://yourportfolio.com)](https://yourportfolio.com) -->
 
-## About me
+## 👨‍💻 About me
 
-### 💻 I'm a passionate individual who loves diving into the world of coding. As a full-stack developer, I enjoy building web applications from both the frontend and backend perspectives.
+### I'm a passionate full-stack developer from Hong Kong who loves diving into the world of coding. As a full-stack developer, I enjoy building web applications from both the frontend and backend perspectives.
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=weijiezhang-star" alt="weijiezhang-star" /></a> </p> -->
 
-## Languages and Tools
+## 💼 Languages and Tools
 
 <table>
     <tr>
@@ -113,7 +112,7 @@
 
 <!-- <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" /> -->
 
-## Statistics
+## 📊 Statistics
 
 <table align='center'>
     <tr>
@@ -126,11 +125,12 @@
     </tr>
 </table>
 
-## 📫 Let's Connect!
+## 🤝 Let's Connect!
 
-I'm always open to new opportunities, collaborations, and interesting discussions. Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/janedoe/) to discuss potential opportunities or check out my [Portfolio](https://janedoe.com) to see more of my projects. I'm excited to collaborate and create impactful solutions!
+### I'm always open to new opportunities, collaborations, and interesting discussions. Feel free to connect with me on [LinkedIn](https://www.linkedin.com/) to discuss potential opportunities or check out my [Portfolio](https://janedoe.com) to see more of my projects. I'm excited to collaborate and create impactful solutions!
 
-🎯 Let's build the future together!
+🚀 Let's build the future together!
 
-<h3 align="left">Support:</h3>
+## 🎉 Support
+
 <p><a href="https://ko-fi.com/weijiezhang-star"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="weijiezhang-star" /></a></p><br><br>
