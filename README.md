@@ -7,7 +7,7 @@
 
 ## 👨‍💻 About me
 
-### I'm a passionate full-stack developer from Hong Kong who loves diving into the world of coding. As a full-stack developer, I enjoy building web applications from both the frontend and backend perspectives.
+### I'm a passionate frontend developer from Malaysia who loves diving into the world of coding.
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=weijiezhang-star" alt="weijiezhang-star" /></a> </p> -->
 
@@ -46,6 +46,21 @@
             </a>
         </td>
         <td align='center' width='84.6px'>
+            <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/>
+            <br> Tailwind
+            </a>
+        </td>
+        <td align='center' width='84.6px'>
+            <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="40" height="40"/>
+            <br> Bootstrap
+            </a> 
+        </td>
+        <td align='center' width='84.6px'>
+            <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=sass" alt="sass" width="40" height="40"/>
+            <br> SASS
+            </a>
+        </td>
+        <td align='center' width='84.6px'>
             <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/>
             <br> Node.js
             </a> 
@@ -55,6 +70,18 @@
             <br> Express.js
             </a> 
         </td>
+        <!-- <td align='center' width='84.6px'>
+            <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=php" alt="php" width="40" height="40"/>
+            <br> PHP
+            </a>
+        </td> -->
+    </tr>
+    <tr>
+        <!-- <td align='center' width='84.6px'>
+            <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=laravel" alt="laravel" width="40" height="40"/>
+            <br> Laravel
+            </a>
+        </td> -->
         <td align='center' width='84.6px'>
             <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=python" alt="python" width="40" height="40"/>
             <br> Python
@@ -64,33 +91,6 @@
             <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=django" alt="django" width="40" height="40"/>
             <br> Django
             </a> 
-        </td>
-        <td align='center' width='84.6px'>
-            <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=php" alt="php" width="40" height="40"/>
-            <br> PHP
-            </a>
-        </td>
-    </tr>
-    <tr>
-        <td align='center' width='84.6px'>
-            <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=laravel" alt="laravel" width="40" height="40"/>
-            <br> Laravel
-            </a>
-        </td>
-        <td align='center' width='84.6px'>
-            <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="40" height="40"/>
-            <br> Bootstrap
-            </a> 
-        </td>
-        <td align='center' width='84.6px'>
-            <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/>
-            <br> Tailwind
-            </a>
-        </td>
-        <td align='center' width='84.6px'>
-            <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=sass" alt="sass" width="40" height="40"/>
-            <br> SASS
-            </a>
         </td>
         <td align='center' width='84.6px'>
             <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/>
@@ -132,7 +132,7 @@
 
 ## 🤝 Let's Connect!
 
-### I'm always open to new opportunities, collaborations, and interesting discussions. Feel free to connect with me on [LinkedIn]() to discuss potential opportunities or check out my [Portfolio]() to see more of my projects. I'm excited to collaborate and create impactful solutions! <br>🚀 Let's build the future together!
+### I'm always open to new opportunities, collaborations, and interesting discussions. Feel free to connect with me to discuss potential opportunities. I'm excited to collaborate and create impactful solutions! <br>🚀 Let's build the future together!
 
 ## 🎉 Support
 
