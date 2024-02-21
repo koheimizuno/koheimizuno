@@ -65,11 +65,6 @@
             <br> Node.js
             </a> 
         </td>
-        <td align='center' width='84.6px'>
-            <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/>
-            <br> Express.js
-            </a> 
-        </td>
         <!-- <td align='center' width='84.6px'>
             <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=php" alt="php" width="40" height="40"/>
             <br> PHP
@@ -82,6 +77,11 @@
             <br> Laravel
             </a>
         </td> -->
+        <td align='center' width='84.6px'>
+            <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/>
+            <br> Express.js
+            </a> 
+        </td>
         <td align='center' width='84.6px'>
             <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=python" alt="python" width="40" height="40"/>
             <br> Python
