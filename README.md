@@ -7,7 +7,7 @@
 
 ## 👨‍💻 About me
 
-### I'm a passionate frontend developer from Malaysia who loves diving into the world of coding.
+### I'm a passionate web developer who loves diving into the world of coding.
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=weijiezhang-star" alt="weijiezhang-star" /></a> </p> -->
 
