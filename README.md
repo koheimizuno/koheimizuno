@@ -123,8 +123,6 @@
     <tr>
         <td>
             <img align="center" src="https://github-readme-stats.vercel.app/api?username=weijiezhang-star&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="weijiezhang's github stats" />
-            <img align="center" src="https://stats.quira.sh/weijiezhang/github" alt="weijiezhang's github stats" />
-            [![weijiezhang's GitHub | Stats](https://stats.quira.sh/weijiezhang/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=weijiezhang)
         </td>
         <td>
             <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=weijiezhang-star&layout=compact&theme=buefy&hide_border=true" />
