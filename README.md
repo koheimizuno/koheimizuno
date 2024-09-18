@@ -7,7 +7,7 @@
 
 ## 👨‍💻 About me
 
-### I'm a passionate web developer who loves diving into the world of coding.
+### I'm a passionate full stack blockchain developer who loves diving into the world of coding.
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=weijiezhang-star" alt="weijiezhang-star" /></a> </p> -->
 
@@ -16,8 +16,8 @@
 <table>
     <tr>
         <td align='center' width='84.6px'>
-            <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=javascript" alt="typescript" width="40" height="40"/>
-            <br>TypeScript
+            <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=javascript" alt="javascript" width="40" height="40"/>
+            <br>JavaScript
             </a>
         </td>
         <td align='center' width='84.6px'>
@@ -43,6 +43,21 @@
         <td align='center' width='84.6px'>
             <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nuxt" width="40" height="40"/>
             <br> Nuxt.js
+            </a>
+        </td>
+        <td align='center' width='84.6px'>
+            <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=solidity" width="40" height="40"/>
+            <br> Solidity
+            </a>
+        </td>
+        <td align='center' width='84.6px'>
+            <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=javascript" alt="javascript" width="40" height="40"/>
+            <br>JavaScript
+            </a>
+        </td>
+        <td align='center' width='84.6px'>
+            <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=typescript" alt="typescript" width="40" height="40"/>
+            <br>TypeScript
             </a>
         </td>
         <td align='center' width='84.6px'>
