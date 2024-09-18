@@ -16,16 +16,6 @@
 <table>
     <tr>
         <td align='center' width='84.6px'>
-            <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=javascript" alt="javascript" width="40" height="40"/>
-            <br>JavaScript
-            </a>
-        </td>
-        <td align='center' width='84.6px'>
-            <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=typescript" alt="typescript" width="40" height="40"/>
-            <br>TypeScript
-            </a>
-        </td>
-        <td align='center' width='84.6px'>
             <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/>
             <br> React
             </a> 
