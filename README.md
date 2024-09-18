@@ -36,7 +36,7 @@
             </a>
         </td>
         <td align='center' width='84.6px'>
-            <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=solidity" width="40" height="40"/>
+            <a href="https://docs.soliditylang.org/en/v0.8.27/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=solidity" width="40" height="40"/>
             <br> Solidity
             </a>
         </td>
