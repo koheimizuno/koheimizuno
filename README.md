@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm WeiJie Zhang</h1>
+<h1 align="center">Hi 👋, I'm Kohei Mizuno(水野康平)</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=weijiezhang-star&label=Profile%20views&color=0e75b6&style=flat" alt="weijiezhang-star" /> </p>
 
