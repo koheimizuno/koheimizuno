@@ -127,10 +127,10 @@
 <table align='center'>
     <tr>
         <td>
-            <img align="center" src="https://github-readme-stats.vercel.app/api?username=weijiezhang-star&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="weijiezhang's github stats" />
+            <img align="center" src="https://github-readme-stats.vercel.app/api?username=koheimizuno&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="koheimizuno's github stats" />
         </td>
         <td>
-            <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=weijiezhang-star&layout=compact&theme=buefy&hide_border=true" />
+            <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=koheimizuno&layout=compact&theme=buefy&hide_border=true" />
         </td>
     </tr>
 </table>
